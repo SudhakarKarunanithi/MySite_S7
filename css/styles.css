@@ -37,8 +37,8 @@ h1 {
 }
 
 .header-table {
-    margin: 3rem auto 0 auto;
-    width: 60%;
+    position: relative;
+    width: 100%;
 }
 
 th {
@@ -67,7 +67,7 @@ span {
         font-family: 'Roboto', sans-serif;
     }
     .header-table {
-        width: 80%;
+        width: 100%;
     }
     .MyImage {
         height: 100px;
