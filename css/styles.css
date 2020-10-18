@@ -55,6 +55,9 @@ span {
         font-family: 'Viga', sans-serif;
         letter-spacing: 2px;
     }
+    a{
+        margin:1%;
+    }
     
     h3 {
         font-size: 1rem;
