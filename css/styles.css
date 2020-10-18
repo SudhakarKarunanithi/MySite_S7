@@ -68,6 +68,7 @@ span {
     }
     .header-table {
         width: 100%;
+        margin-top: 25%;
     }
     .MyImage {
         height: 100px;
@@ -75,9 +76,10 @@ span {
     }
     #footer {
         width: 100%;
+        margin-top: 15%;
     }
     p {
-        font-weight: 100;
+        font-weight: lighter;
     }
     li {
         margin: 1%;
