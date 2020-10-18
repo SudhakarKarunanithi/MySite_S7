@@ -35,7 +35,7 @@ h1 {
     font-family: 'Roboto', sans-serif;
 }
 
-table {
+.header-table {
     margin: 3rem auto 0 auto;
     width: 60%;
 }
@@ -65,7 +65,7 @@ span {
         font-size: 2.5rem;
         font-family: 'Roboto', sans-serif;
     }
-    table {
+    .header-table {
         width: 80%;
     }
     .MyImage {
@@ -100,4 +100,6 @@ li {
 
 #footer {
     text-align: center;
+    position: absolute;
+    right: 1.5rem;
 }
